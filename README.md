@@ -1,36 +1,27 @@
-# MIST 4610 Project 2
+# MIST 4610 Project 2 Group 7
 
-Team Name and Members
+## Group Members: 
+1. [Justus Nour](https://github.com/justusnour)
 
-Team Name: [Insert your assigned team name]
+2. [Jackson Boyer](https://github.com/Jackson9812)
+   
+3. [Rong Xin Hu](https://github.com/RongX02)
 
-Members:
+4. [Trey Trotti](https://github.com/treytrotti)
 
-Name 1
+5. [Sophie Yoo](https://github.com/sophieyoo)
 
-Name 2
-
-Name 3
-
-Name 4
-
-GitHub Repository Links:
-
-Member 1: [GitHub Link]
-
-Member 2: [GitHub Link]
-
-Member 3: [GitHub Link]
-
-Member 4: [GitHub Link]
 
 Dataset Description
 
 The dataset used for this project is titled “Hate Crimes by County and Bias Type, Beginning 2010.” It was obtained from the U.S. Data.gov open data portal and published by the New York State Division of Criminal Justice Services.
 
+
 This dataset provides annual counts of reported hate crime incidents, victims, and offenders across New York State counties from 2010 to the most recent available year. Bias types are grouped into categories including race, religion, sexual orientation, gender/gender identity, and disability. Each row represents a county-year combination with counts for dozens of specific bias motivations.
 
+
 At the time of analysis, the dataset included 822 rows and 44 columns. The key variables include:
+
 
 County: Name of the New York county
 
