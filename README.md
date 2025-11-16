@@ -33,7 +33,7 @@ The key columns and their data types are summarized below:
 County: The name of the New York county where the hate crime occurred (String).
 
 
-Year: The reporting year of the incident (Integer).
+- Year: The reporting year of the incident (Integer).
 
 
 - Crime Type: Categorizes the offense as “Crimes Against Persons” or “Property Crimes” (String).
