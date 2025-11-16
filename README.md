@@ -21,6 +21,8 @@ https://catalog.data.gov/dataset/hate-crimes-by-county-and-bias-type-beginning-2
 
 
 Canva Link: 
+
+
 https://www.canva.com/design/DAG4suJcqb0/mXVWzznl7W_f_z9J15qjTg/edit 
 
 
