@@ -67,11 +67,13 @@ County: The name of the New York county where the hate crime occurred (String).
 
 
 This dataset provides a clear overview of hate crime activity across New York State counties beginning in 2010. Because it includes multiple bias categories, it allows for the exploration of questions such as:
-How the frequency of hate crimes has changed over time.
 
 
-Which bias types are most prevalent in certain regions.
+- How the frequency of hate crimes has changed over time.
 
+- Which bias types are most prevalent in certain regions.
 
-How different counties compare in total incidents and types of bias.
+- How different counties compare in total incidents and types of bias.
+
+  
 Its moderate size (822 rows × 44 columns) makes it ideal for Tableau analysis and visual exploration, while still being detailed enough to produce meaningful and socially relevant insights.
