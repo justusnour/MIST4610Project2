@@ -48,22 +48,22 @@ Year: The reporting year of the incident (Integer).
 - Anti-Jewish / Anti-Catholic / Anti-Islamic (Muslim) / Anti-Other Religion, etc.: Counts of crimes motivated by religious bias (Integer).
 
 
-Anti-Hispanic / Anti-Arab / Anti-Other Ethnicity: Counts of crimes motivated by ethnicity or national origin (Integer).
+- Anti-Hispanic / Anti-Arab / Anti-Other Ethnicity: Counts of crimes motivated by ethnicity or national origin (Integer).
 
 
-Anti-Gay Male / Anti-Gay Female / Anti-Bisexual / Anti-Heterosexual: Counts of crimes motivated by sexual orientation bias (Integer).
+- Anti-Gay Male / Anti-Gay Female / Anti-Bisexual / Anti-Heterosexual: Counts of crimes motivated by sexual orientation bias (Integer).
 
 
-Anti-Physical Disability / Anti-Mental Disability: Counts of hate crimes targeting individuals with disabilities (Integer).
+- Anti-Physical Disability / Anti-Mental Disability: Counts of hate crimes targeting individuals with disabilities (Integer).
 
 
-Total Incidents: Total number of hate crime incidents recorded for that county, year, and crime type (Integer).
+- Total Incidents: Total number of hate crime incidents recorded for that county, year, and crime type (Integer).
 
 
-Total Victims: Total number of victims involved in those incidents (Integer).
+- Total Victims: Total number of victims involved in those incidents (Integer).
 
 
-Total Offenders: Total number of known offenders (Integer).
+- Total Offenders: Total number of known offenders (Integer).
 
 
 This dataset provides a clear overview of hate crime activity across New York State counties beginning in 2010. Because it includes multiple bias categories, it allows for the exploration of questions such as:
