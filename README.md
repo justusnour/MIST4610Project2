@@ -77,3 +77,18 @@ This dataset provides a clear overview of hate crime activity across New York St
 
   
 Its moderate size (822 rows × 44 columns) makes it ideal for Tableau analysis and visual exploration, while still being detailed enough to produce meaningful and socially relevant insights.
+
+## Our Questions
+
+Descriptive Question:
+- How have the total number of hate crime incidents in New York State changed each year since 2010, and which counties have reported the highest or lowest totals?
+
+
+The objective of this descriptive question is to summarize the patterns and trends in hate crimes across New York. This allows viewers to identify which incidents have increased or decreased in numbers over the years and which demographics experience higher levels of hate crime activity. We create a visualization of the total hate crimes by year and county, providing an analysis of how the hate crimes are distributed across the different demographics and years. Through a high-level overview of the crimes, we can dissect the hate crime distributions more in depth, potentially identifying reasons for drastic hate crime changes within neighborhoods.
+
+Explanatory Question: 
+- What types of bias—such as race, religion, sexual orientation, or gender identity—account for the largest share of hate crime incidents, and how have these patterns shifted over time?
+
+
+The explanatory question analyzes the causes and motivations behind neighborhood hate crimes. The objective of this question is to reveal why certain harmful biases exist and how societal influences(e.g. Social justice movements, protests, legislation changes, etc.) can alter these totals. By exploring the biases, it can help analysts to explain why there are fluctuations in hate crime levels and identify the different groups that may have been increasingly targeted over time.
+
