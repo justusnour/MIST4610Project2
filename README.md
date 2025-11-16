@@ -36,16 +36,16 @@ County: The name of the New York county where the hate crime occurred (String).
 Year: The reporting year of the incident (Integer).
 
 
-Crime Type: Categorizes the offense as “Crimes Against Persons” or “Property Crimes” (String).
+- Crime Type: Categorizes the offense as “Crimes Against Persons” or “Property Crimes” (String).
 
 
-Anti-Male / Anti-Female / Anti-Transgender / Anti-Gender Non-Conforming: Number of reported crimes motivated by gender or gender identity bias (Integer).
+- Anti-Male / Anti-Female / Anti-Transgender / Anti-Gender Non-Conforming: Number of reported crimes motivated by gender or gender identity bias (Integer).
 
 
-Anti-White / Anti-Black / Anti-Asian / Anti-American Indian, etc.: Counts of hate crimes motivated by racial bias (Integer).
+- Anti-White / Anti-Black / Anti-Asian / Anti-American Indian, etc.: Counts of hate crimes motivated by racial bias (Integer).
 
 
-Anti-Jewish / Anti-Catholic / Anti-Islamic (Muslim) / Anti-Other Religion, etc.: Counts of crimes motivated by religious bias (Integer).
+- Anti-Jewish / Anti-Catholic / Anti-Islamic (Muslim) / Anti-Other Religion, etc.: Counts of crimes motivated by religious bias (Integer).
 
 
 Anti-Hispanic / Anti-Arab / Anti-Other Ethnicity: Counts of crimes motivated by ethnicity or national origin (Integer).
