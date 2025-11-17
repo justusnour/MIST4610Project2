@@ -116,9 +116,17 @@ The stacked bar chart further clarifies how these bias categories relate to crim
 
 Collectively, the patterns suggest that race and religion remain the most significant drivers of hate-crime incidents in New York, both in total volume and in their tendency to involve person-targeted offenses. Sexual orientation and gender-identity categories, while smaller, exhibit meaningful shifts tied to broader cultural and political dynamics.
 
-
+## Visualizations 
 <img width="1138" height="637" alt="Screenshot 2025-11-16 at 6 36 26 PM" src="https://github.com/user-attachments/assets/012dd492-c505-4089-a194-9d0f7c4ba173" />
 
 <img width="1133" height="630" alt="Screenshot 2025-11-16 at 7 07 53 PM" src="https://github.com/user-attachments/assets/18163f8c-21fa-4ff5-a235-1a0359924eb8" />
 
 <img width="1133" height="613" alt="Screenshot 2025-11-16 at 6 38 22 PM" src="https://github.com/user-attachments/assets/d964c272-6527-4da2-b306-fe27ac87bd64" />
+
+## Conclusion
+
+This project provides a clear and data-driven view of how hate crimes have evolved across New York State from 2010 to 2022. The descriptive analysis shows that hate crime incidents fluctuate noticeably over time, with identifiable peaks connected to broader social and political moments. The geographic analysis further demonstrates that hate crime activity is concentrated in a handful of large, urban counties, while many rural counties report far fewer incidents. These findings highlight meaningful differences in population, reporting practices, and demographic composition across regions.
+
+The explanatory analysis adds important context by examining the motivations behind these crimes. Race and religion consistently emerge as the primary drivers of hate crime incidents, both historically and in recent years. These categories also tend to involve a higher proportion of crimes against persons, signaling that many incidents involve direct confrontation rather than solely property damage. Sexual orientation and gender/gender-identity biases represent smaller but still significant portions of statewide incidents, with patterns that align closely with national discourse surrounding LGBTQ+ communities.
+
+Collectively, the results suggest that hate crime activity in New York is shaped by demographic factors, social dynamics, and shifts in public visibility of bias-related issues. These findings can help guide policymakers, community organizations, and law enforcement agencies in allocating resources, developing targeted outreach programs, and continuing efforts to reduce bias-motivated harm across the state.
