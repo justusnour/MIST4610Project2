@@ -136,3 +136,11 @@ This project provides a clear and data-driven view of how hate crimes have evolv
 The explanatory analysis adds important context by examining the motivations behind these crimes. Race and religion consistently emerge as the primary drivers of hate crime incidents, both historically and in recent years. These categories also tend to involve a higher proportion of crimes against persons, signaling that many incidents involve direct confrontation rather than solely property damage. Sexual orientation and gender/gender-identity biases represent smaller but still significant portions of statewide incidents, with patterns that align closely with national discourse surrounding LGBTQ+ communities.
 
 Collectively, the results suggest that hate crime activity in New York is shaped by demographic factors, social dynamics, and shifts in public visibility of bias-related issues. These findings can help guide policymakers, community organizations, and law enforcement agencies in allocating resources, developing targeted outreach programs, and continuing efforts to reduce bias-motivated harm across the state.
+
+## Citations
+
+New York State Division of Criminal Justice Services.
+“Hate Crimes by County and Bias Type, Beginning 2010.”
+Retrieved from Data.gov: https://catalog.data.gov/dataset/hate-crimes-by-county-and-bias-type-beginning-2010
+
+Accessed: November 16, 2025.
