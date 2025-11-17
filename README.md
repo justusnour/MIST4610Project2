@@ -96,6 +96,7 @@ The explanatory question analyzes the causes and motivations behind neighborhood
 
 Before performing analysis, several minor data manipulations and calculations were applied to prepare the Hate Crimes by County and Bias Type, Beginning 2010 dataset for visualization and interpretation.
 - Filtering the Data by Year and County: The dataset contains data from multiple years and all counties in New York State. To simplify visualization and identify trends, the data was filtered to include only the years 2010 through the most recent available year. This made it possible to analyze time-based changes while maintaining focus on a consistent timeframe.
+  
 - Some counties reported zero incidents or had missing values for certain bias types. These were treated as zeros to maintain accuracy when calculating totals, ensuring that counties with no reported hate crimes were still represented in the analysis.
 
 ## Analysis and Results
