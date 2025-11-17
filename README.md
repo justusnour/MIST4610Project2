@@ -100,6 +100,23 @@ Before performing analysis, several minor data manipulations and calculations we
 
 ## Analysis and Results
 
+### Descriptive Analysis
+
+The time-series visualization of total hate crime incidents from 2010 through 2022 shows that incident levels vary meaningfully across years rather than staying stable. There are noticeable spikes around 2012, 2018, and 2021–2022, with declines in the years between those peaks. This pattern suggests that statewide hate-crime activity is influenced by broader social and political events, public visibility of bias-motivated incidents, and fluctuations in reporting behavior. The most recent increase after 2019 indicates that hate crimes remain a persistent and possibly growing issue in New York State.
+
+The geographic analysis provides further insight by mapping total incidents by county. The filled county map reveals that hate crimes are not evenly distributed across the state. The highest totals occur in densely populated urban counties such as New York (Manhattan), Kings (Brooklyn), Queens, Bronx, and Erie, which collectively account for a significant portion of statewide incidents. Many smaller or rural counties in upstate New York report relatively few incidents. This pattern is consistent with differences in population size, diversity, and reporting infrastructure. Together, these descriptive findings create a clear picture of where and when hate crimes occur most frequently and help identify which regions may require greater prevention and outreach efforts.
+
+### Explanatory Analysis
+
+The explanatory analysis groups all individual bias-type fields into five major categories: Race, Religion, Sexual Orientation, Gender/Gender Identity, and Disability. When charted over time, race-related hate crimes appear consistently as the largest category in every year from 2010 to 2022. These incidents show noticeable increases in recent years, especially between 2020 and 2022. Religion-based hate crimes form the second-largest category and display similar peaks, suggesting that both race and religion remain the dominant motivators behind reported hate crimes in New York.
+
+Sexual-orientation hate crimes make up a smaller share but still show important periodic fluctuations, including declines around 2017 and increases after 2020. Gender and gender-identity bias represents the smallest category overall, but the line chart reveals specific spikes—particularly in years when national attention on transgender rights and related policies was high. This indicates that although less frequent, these crimes may be strongly influenced by social discourse and political climate.
+
+The stacked bar chart further clarifies how these bias categories relate to crime type. For the largest categories (race and religion), the majority of incidents are Crimes Against Persons, rather than property crimes, indicating direct interpersonal harm is more common than property damage in these contexts. Sexual-orientation and gender-identity categories also skew toward person-related crimes. This split underscores that hate crimes often involve direct confrontation or intimidation rather than indirect forms such as vandalism alone.
+
+Collectively, the patterns suggest that race and religion remain the most significant drivers of hate-crime incidents in New York, both in total volume and in their tendency to involve person-targeted offenses. Sexual orientation and gender-identity categories, while smaller, exhibit meaningful shifts tied to broader cultural and political dynamics.
+
+
 <img width="1138" height="637" alt="Screenshot 2025-11-16 at 6 36 26 PM" src="https://github.com/user-attachments/assets/012dd492-c505-4089-a194-9d0f7c4ba173" />
 
 <img width="1133" height="630" alt="Screenshot 2025-11-16 at 7 07 53 PM" src="https://github.com/user-attachments/assets/18163f8c-21fa-4ff5-a235-1a0359924eb8" />
