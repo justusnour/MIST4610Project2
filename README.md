@@ -102,6 +102,6 @@ Before performing analysis, several minor data manipulations and calculations we
 
 <img width="1138" height="637" alt="Screenshot 2025-11-16 at 6 36 26 PM" src="https://github.com/user-attachments/assets/012dd492-c505-4089-a194-9d0f7c4ba173" />
 
-<img width="448" height="243" alt="Screenshot 2025-11-16 at 6 37 11 PM" src="https://github.com/user-attachments/assets/0ab5e1f7-ce88-4d6a-aa29-df9979e78436" />
+<img width="1133" height="630" alt="Screenshot 2025-11-16 at 7 07 53 PM" src="https://github.com/user-attachments/assets/18163f8c-21fa-4ff5-a235-1a0359924eb8" />
 
 <img width="1133" height="613" alt="Screenshot 2025-11-16 at 6 38 22 PM" src="https://github.com/user-attachments/assets/d964c272-6527-4da2-b306-fe27ac87bd64" />
