@@ -118,10 +118,15 @@ Collectively, the patterns suggest that race and religion remain the most signif
 
 ## Visualizations 
 ### Figure 1. Total Hate Crimes in New York by Year (2010–2022)
+
 <img width="1138" height="637" alt="Screenshot 2025-11-16 at 6 36 26 PM" src="https://github.com/user-attachments/assets/012dd492-c505-4089-a194-9d0f7c4ba173" />
+
 ### Figure 2. Total Hate Crimes by County (Map)
+
 <img width="1133" height="630" alt="Screenshot 2025-11-16 at 7 07 53 PM" src="https://github.com/user-attachments/assets/18163f8c-21fa-4ff5-a235-1a0359924eb8" />
+
 ### Figure 3. Bias Categories by Crime Type (Crimes Against Persons vs Property Crimes)
+
 <img width="1133" height="613" alt="Screenshot 2025-11-16 at 6 38 22 PM" src="https://github.com/user-attachments/assets/d964c272-6527-4da2-b306-fe27ac87bd64" />
 
 ## Conclusion
