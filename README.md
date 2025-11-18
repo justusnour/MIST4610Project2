@@ -130,7 +130,7 @@ Collectively, the patterns suggest that race and religion remain the most signif
 
 <img width="1133" height="613" alt="Screenshot 2025-11-16 at 6 38 22 PM" src="https://github.com/user-attachments/assets/d964c272-6527-4da2-b306-fe27ac87bd64" />
 
-### Figure 4. 
+### Figure 4. Annual Hate Crime Incidents by County in New York State (2010–2022)
 
 <img width="794" height="444" alt="Screenshot 2025-11-18 at 5 38 15 PM" src="https://github.com/user-attachments/assets/560b8db5-9dc6-4f45-b18d-37e9dc1230f5" />
 
