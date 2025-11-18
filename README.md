@@ -130,6 +130,11 @@ Collectively, the patterns suggest that race and religion remain the most signif
 
 <img width="1133" height="613" alt="Screenshot 2025-11-16 at 6 38 22 PM" src="https://github.com/user-attachments/assets/d964c272-6527-4da2-b306-fe27ac87bd64" />
 
+### Figure 4. 
+
+<img width="794" height="444" alt="Screenshot 2025-11-18 at 5 38 15 PM" src="https://github.com/user-attachments/assets/560b8db5-9dc6-4f45-b18d-37e9dc1230f5" />
+
+
 ## Conclusion
 
 This project provides a clear and data-driven view of how hate crimes have evolved across New York State from 2010 to 2022. The descriptive analysis shows that hate crime incidents fluctuate noticeably over time, with identifiable peaks connected to broader social and political moments. The geographic analysis further demonstrates that hate crime activity is concentrated in a handful of large, urban counties, while many rural counties report far fewer incidents. These findings highlight meaningful differences in population, reporting practices, and demographic composition across regions.
