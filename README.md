@@ -138,6 +138,11 @@ Collectively, the patterns suggest that race and religion remain the most signif
 
 <img width="1129" height="616" alt="Screenshot 2025-11-18 at 5 56 37 PM" src="https://github.com/user-attachments/assets/37bcaa10-8575-43c3-8eda-2341dabf4603" />
 
+### Figure 6. Cluster Analysis of Hate-Crime Bias Categories
+
+<img width="1138" height="598" alt="Screenshot 2025-11-18 at 6 53 38 PM" src="https://github.com/user-attachments/assets/6cc27904-16f2-4427-9efc-0bfd382eb025" />
+
+
 
 
 ## Conclusion
