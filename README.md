@@ -134,6 +134,11 @@ Collectively, the patterns suggest that race and religion remain the most signif
 
 <img width="794" height="444" alt="Screenshot 2025-11-18 at 5 38 15 PM" src="https://github.com/user-attachments/assets/560b8db5-9dc6-4f45-b18d-37e9dc1230f5" />
 
+## Figure 5. Trends in Hate Crime Incidents by Bias Type (2010–2022)
+
+<img width="1129" height="616" alt="Screenshot 2025-11-18 at 5 56 37 PM" src="https://github.com/user-attachments/assets/37bcaa10-8575-43c3-8eda-2341dabf4603" />
+
+
 
 ## Conclusion
 
