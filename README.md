@@ -22,7 +22,7 @@ https://catalog.data.gov/dataset/hate-crimes-by-county-and-bias-type-beginning-2
 
 Canva Link: 
 
-(https://www.canva.com/design/DAG4-8zjTn0/_E9JSVIVbvYd82RPngQcfQ/edit)
+https://www.canva.com/design/DAG4-8zjTn0/_E9JSVIVbvYd82RPngQcfQ/edit
 
 ## Describing the Dataset and What It Contains
 The dataset used for this project is titled “Hate Crimes by County and Bias Type, Beginning 2010.” It was obtained from the U.S. Data.gov open data portal and published by the New York State Division of Criminal Justice Services.
