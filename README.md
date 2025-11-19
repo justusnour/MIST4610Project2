@@ -87,11 +87,17 @@ Descriptive Question:
 The objective of this descriptive question is to summarize the patterns and trends in hate crimes across New York. This allows viewers to identify which incidents have increased or decreased in numbers over the years and which demographics experience higher levels of hate crime activity. We create a visualization of the total hate crimes by year and county, providing an analysis of how the hate crimes are distributed across the different demographics and years. Through a high-level overview of the crimes, we can dissect the hate crime distributions more in depth, potentially identifying reasons for drastic hate crime changes within neighborhoods.
 
 Explanatory Question: 
-- What types of bias—such as race, religion, sexual orientation, or gender identity—account for the largest share of hate crime incidents, and how have these patterns shifted over time?
+- Do different types of bias—such as race, religion, sexual orientation, or gender identity—tend to result in different patterns of Crimes Against Persons versus Property Crimes?
 
+This question explores:
 
-The explanatory question analyzes the causes and motivations behind neighborhood hate crimes. The objective of this question is to reveal why certain harmful biases exist and how societal influences(e.g. Social justice movements, protests, legislation changes, etc.) can alter these totals. By exploring the biases, it can help analysts to explain why there are fluctuations in hate crime levels and identify the different groups that may have been increasingly targeted over time.
+- Why certain bias categories result in more direct harm
 
+How societal events and political climates shape fluctuations in bias-motivated incidents
+
+Which motivations drive crime patterns involving interpersonal harm versus property destruction
+
+This deeper analysis reveals not only how much hate crime occurs but also how and why it occurs.
 ## Dataset Manipulations
 
 Before performing analysis, several minor data manipulations and calculations were applied to prepare the Hate Crimes by County and Bias Type, Beginning 2010 dataset for visualization and interpretation.
