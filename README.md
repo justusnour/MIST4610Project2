@@ -127,7 +127,12 @@ The explanatory analysis groups all individual bias-type fields into five major 
 
 Sexual-orientation hate crimes make up a smaller share but still show important periodic fluctuations, including declines around 2017 and increases after 2020. Gender and gender-identity bias represents the smallest category overall, but the line chart reveals specific spikes—particularly in years when national attention on transgender rights and related policies was high. This indicates that although less frequent, these crimes may be strongly influenced by social discourse and political climate.
 
-The stacked bar chart further clarifies how these bias categories relate to crime type. For the largest categories (race and religion), the majority of incidents are Crimes Against Persons, rather than property crimes, indicating direct interpersonal harm is more common than property damage in these contexts. Sexual-orientation and gender-identity categories also skew toward person-related crimes. This split underscores that hate crimes often involve direct confrontation or intimidation rather than indirect forms such as vandalism alone.
+A cluster analysis was performed using SUM(PeopleCrimes_M) and SUM(PropertyCrimes_M) to identify groups of bias categories with similar crime patterns. Three clusters emerged:
+Cluster 1 (High Harm): Anti-Jewish, Anti-Black — high levels of both Crimes Against Persons and Property Crimes.
+Cluster 2 (Moderate Harm): Anti-Gay Male, Anti-Islamic, Anti-Asian — moderate levels with clear upward spikes in specific years.
+Cluster 3 (Low Harm): Most remaining categories — consistently lower incident totals.
+
+This clustering supports the explanatory question by showing that certain bias types produce disproportionately higher interpersonal harm.
 
 Collectively, the patterns suggest that race and religion remain the most significant drivers of hate-crime incidents in New York, both in total volume and in their tendency to involve person-targeted offenses. Sexual orientation and gender-identity categories, while smaller, exhibit meaningful shifts tied to broader cultural and political dynamics.
 
