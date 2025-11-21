@@ -101,6 +101,15 @@ This deeper analysis reveals not only how much hate crime occurs but also how an
 
 Before performing analysis, several minor data manipulations and calculations were applied to prepare the Hate Crimes by County and Bias Type, Beginning 2010 dataset for visualization and interpretation.
 - Filtering the Data by Year and County: The dataset contains data from multiple years and all counties in New York State. To simplify visualization and identify trends, the data was filtered to include only the years 2010 through the most recent available year. This made it possible to analyze time-based changes while maintaining focus on a consistent timeframe.
+
+- Pivoting Bias Columns:
+The dataset originally listed each bias type in its own column. These columns were pivoted in Tableau to create a long-format structure that allowed more flexible visualizations, such as line charts and cluster analysis across bias types.
+
+- Creating New Measure Fields:
+Separate measure fields were created to aggregate Crimes Against Persons and Property Crimes (PeopleCrimes_M and PropertyCrimes_M). These allowed us to examine whether different bias motivations tend to be associated with different types of harm.
+
+- Preparing for Cluster Analysis:
+A scatterplot was created using the aggregated measures for Crimes Against Persons and Property Crimes. Tableau’s built-in clustering tool was then used to identify natural groupings among bias categories.
   
 - Some counties reported zero incidents or had missing values for certain bias types. These were treated as zeros to maintain accuracy when calculating totals, ensuring that counties with no reported hate crimes were still represented in the analysis.
 
