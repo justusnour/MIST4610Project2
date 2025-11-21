@@ -128,9 +128,9 @@ The explanatory analysis groups all individual bias-type fields into five major 
 Sexual-orientation hate crimes make up a smaller share but still show important periodic fluctuations, including declines around 2017 and increases after 2020. Gender and gender-identity bias represents the smallest category overall, but the line chart reveals specific spikes—particularly in years when national attention on transgender rights and related policies was high. This indicates that although less frequent, these crimes may be strongly influenced by social discourse and political climate.
 
 A cluster analysis was performed using SUM(PeopleCrimes_M) and SUM(PropertyCrimes_M) to identify groups of bias categories with similar crime patterns. Three clusters emerged:
-Cluster 1 (High Harm): Anti-Jewish, Anti-Black — high levels of both Crimes Against Persons and Property Crimes.
-Cluster 2 (Moderate Harm): Anti-Gay Male, Anti-Islamic, Anti-Asian — moderate levels with clear upward spikes in specific years.
-Cluster 3 (Low Harm): Most remaining categories — consistently lower incident totals.
+- Cluster 1 (High Harm): Anti-Jewish, Anti-Black — high levels of both Crimes Against Persons and Property Crimes.
+- Cluster 2 (Moderate Harm): Anti-Gay Male, Anti-Islamic, Anti-Asian — moderate levels with clear upward spikes in specific years.
+- Cluster 3 (Low Harm): Most remaining categories — consistently lower incident totals.
 
 This clustering supports the explanatory question by showing that certain bias types produce disproportionately higher interpersonal harm.
 
